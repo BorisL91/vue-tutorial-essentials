@@ -7785,6 +7785,11 @@ vary@~1.1.2:
   resolved "https://registry.npm.taobao.org/vary/download/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
+vee-validate@^2.2.15:
+  version "2.2.15"
+  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-2.2.15.tgz#dc6c925d21e57288d3308fe5a39a0941036c575a"
+  integrity sha512-4TOsI8XwVkKVLkg8Nhmy+jyoJrR6XcTRDyxBarzcCvYzU61zamipS1WsB6FlDze8eJQpgglS4NXAS6o4NDPs1g==
+
 vendors@^1.0.0:
   version "1.0.4"
   resolved "https://registry.npm.taobao.org/vendors/download/vendors-1.0.4.tgz?cache=0&sync_timestamp=1579857211244&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvendors%2Fdownload%2Fvendors-1.0.4.tgz#e2b800a53e7a29b93506c3cf41100d16c4c4ad8e"
@@ -7831,6 +7836,11 @@ vue-loader@^15.8.3:
     loader-utils "^1.1.0"
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
+
+vue-router@^3.1.5:
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.1.5.tgz#ff29b8a1e1306c526b52d4dc0532109f16c41231"
+  integrity sha512-BszkPvhl7I9h334GjckCh7sVFyjTPMMJFJ4Bsrem/Ik+B/9gt5tgrk8k4gGLO4ZpdvciVdg7O41gW4DisQWurg==
 
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
